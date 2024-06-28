@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dadosDoUsuario xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/oitavo_projeto_C_">
+  <cadastrarUsuario>
+    <cadastroDoUsuario>
+      <dataDeNascimento>1967-09-23T00:00:00</dataDeNascimento>
+      <idadeDoUsuario>58</idadeDoUsuario>
+      <nomeDaMae>sebastiana</nomeDaMae>
+      <nomeDoUsuario>cida</nomeDoUsuario>
+      <numeroDoTelefone>246810</numeroDoTelefone>
+    </cadastroDoUsuario>
+    <cadastroDoUsuario>
+      <dataDeNascimento>2003-03-30T00:00:00</dataDeNascimento>
+      <idadeDoUsuario>21</idadeDoUsuario>
+      <nomeDaMae>Aparecida</nomeDaMae>
+      <nomeDoUsuario>Alvaro de Paula Carneiro</nomeDoUsuario>
+      <numeroDoTelefone>21993841058</numeroDoTelefone>
+    </cadastroDoUsuario>
+    <cadastroDoUsuario>
+      <dataDeNascimento>2003-03-30T00:00:00</dataDeNascimento>
+      <idadeDoUsuario>21</idadeDoUsuario>
+      <nomeDaMae>cida</nomeDaMae>
+      <nomeDoUsuario>Alvaro de Paula Carneiro</nomeDoUsuario>
+      <numeroDoTelefone>21993841058</numeroDoTelefone>
+    </cadastroDoUsuario>
+    <cadastroDoUsuario>
+      <dataDeNascimento>1984-01-10T00:00:00</dataDeNascimento>
+      <idadeDoUsuario>87</idadeDoUsuario>
+      <nomeDaMae>emma nichibotsu</nomeDaMae>
+      <nomeDoUsuario>isshin nichibotsu</nomeDoUsuario>
+      <numeroDoTelefone>123456789</numeroDoTelefone>
+    </cadastroDoUsuario>
+  </cadastrarUsuario>
+</dadosDoUsuario>
